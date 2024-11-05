@@ -14,7 +14,6 @@ p{
 }
 
 #MyPhoto{
-    background-image: url(images/PhotoMe.JPG);
     height: 200px;
     border-radius: 20px;
 }

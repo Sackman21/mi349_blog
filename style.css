@@ -14,12 +14,7 @@ p{
 }
 
 #MyPhoto{
-    background-image: url(images/PhotoMe.JPG);
-    background-repeat: no-repeat;
-    background-position: center left;
-    background-size: 40px;
-    font-size: 3ems;
-    padding-left: 55px;
-    margin: 100px 0 25px 0;
+    background-image: cover url(images/PhotoMe.JPG);
+    height: 200px;
+    border-radius: 20px;
 }
-

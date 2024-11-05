@@ -14,6 +14,7 @@ h2{
 }
 p{
     line-height: 1.5em;
+}
 
 #MyPhoto{
     height: 400px;
@@ -27,3 +28,4 @@ p{
     height: 600px;
     width: 400px;
 }
+

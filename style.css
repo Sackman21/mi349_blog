@@ -3,6 +3,7 @@ body{
     margin: 40px;
     color: #242424;
     border-top: 10px solid #242424;
+    background-color: #ffff;
 }
 
 h1{
@@ -16,4 +17,12 @@ p{
 #MyPhoto{
     height: 400px;
    
+}
+#TLOU{
+    height: 400px;
+}
+
+#PartyArt{
+    height: inherit;
+    width: 400px;
 }

@@ -52,10 +52,10 @@ p{
 }
 section{
   display: flex;
-  background: #575655;
+  background: grey;
 }
 article{
-  background: grey;
+  background: #575655;
   padding: 20px;
   margin: 20px;
 }

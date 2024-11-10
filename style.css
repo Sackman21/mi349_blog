@@ -34,7 +34,7 @@ p{
     margin-right: 20px;
 }
 .Table{
- background: #2687D9;
+ background: #977c49a4;
 }
 
 .nav{
@@ -44,6 +44,9 @@ p{
   top: 0;
   background: #D97826;
   
+}
+#Contact{
+    float: left;
 }
 section{
   display: flex;

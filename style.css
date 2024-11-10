@@ -30,6 +30,10 @@ p{
     height: 400px;
     width: inherit
 }
+#id{
+    float: left;
+    margin-right: 10px;
+}
 
 .nav{
   border-top: 10px solid #242424;

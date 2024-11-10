@@ -22,6 +22,8 @@ p{
 #TLOU{
     background-image: url(images/ThelastofUS.jpg);
     height: 400px;
+    float: left;
+    margin-right: 10px;
 }
 
 #PartyArt{

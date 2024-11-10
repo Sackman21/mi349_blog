@@ -45,3 +45,12 @@ p{
   background: #D97826;
   
 }
+section{
+  display: flex;
+  background: #575655;
+}
+article{
+  background: grey;
+  padding: 20px;
+  margin: 20px;
+}

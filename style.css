@@ -33,12 +33,15 @@ p{
     float: left;
     margin-right: 20px;
 }
+.Table{
+ background: #2687D9;
+}
 
 .nav{
   border-top: 10px solid #242424;
   border-bottom: 10px solid #242424;
   position: sticky;
   top: 0;
-  background: grey;
+  background: #D97826;
   
 }

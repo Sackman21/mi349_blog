@@ -52,6 +52,9 @@ p{
     margin-right: 5px;
     color: #000000;
 }
+.Blog-Post1{
+    flex: 1000px;
+}
 section{
   display: flex;
   background: rgb(161, 161, 161);

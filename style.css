@@ -53,7 +53,7 @@ p{
 }
 section{
   display: flex;
-  background: grey;
+  background: rgb(161, 161, 161);
 }
 article{
   background: #575655;

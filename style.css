@@ -49,6 +49,7 @@ p{
     float: left;
     margin-right: 5px;
     color: green;
+  background: #575655;
 }
 section{
   display: flex;

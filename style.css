@@ -13,6 +13,7 @@ h2{
   margin-left: 5px;
 }
 p{
+    font-size: 1.2em;
     line-height: 1.5em;
 }
 
@@ -49,7 +50,7 @@ p{
 #Contact{
     float: left;
     margin-right: 5px;
-    color: green;
+    color: #000000;
 }
 section{
   display: flex;

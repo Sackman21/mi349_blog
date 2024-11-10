@@ -10,6 +10,7 @@ h1{
 }
 h2{
     font-size: 2em;
+  margin-left: 5px;
 }
 p{
     line-height: 1.5em;
@@ -34,7 +35,7 @@ p{
     margin-right: 20px;
 }
 .Table{
- background: #977c49a4;
+ background: #68619e;
 }
 
 .nav{
@@ -42,23 +43,20 @@ p{
   border-bottom: 10px solid #242424;
   position: sticky;
   top: 0;
-  background: #D97826;
+  background: #705c41;
   
 }
 #Contact{
     float: left;
     margin-right: 5px;
-  background: #575655;
-}
-.ContactPage{
-    margin-top: 20px;
+    color: green;
 }
 section{
   display: flex;
-  background: grey;
+  background: #68619e;
 }
 article{
-  background: #575655;
+  background: #705c41;
   padding: 20px;
   margin: 20px;
 }

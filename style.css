@@ -48,6 +48,7 @@ p{
 #Contact{
     float: left;
     margin-right: 5px;
+    display: flex;
 }
 section{
   display: flex;

@@ -36,7 +36,7 @@ p{
     margin-right: 20px;
 }
 .Table{
- background: rgb(161, 161, 161);
+ background: #475B5A;
 }
 
 .nav{
@@ -44,7 +44,7 @@ p{
   border-bottom: 10px solid #242424;
   position: sticky;
   top: 0;
-  background: #D97826;
+  background: #475B5A;
   
 }
 #Contact{

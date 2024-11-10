@@ -48,8 +48,10 @@ p{
 #Contact{
     float: left;
     margin-right: 5px;
-    color: green;
   background: #575655;
+}
+.ContactPage{
+    margin-top: 20px;
 }
 section{
   display: flex;
